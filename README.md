@@ -7,5 +7,5 @@ Currently:
 - 📖 Reading [Bushido. La Via del guerriero](https://www.ibs.it/bushido-via-del-guerriero-libro-vari/e/9788807882111)
 - 📺 Rewatching [The Office](https://www.netflix.com/it/title/70136120) for the "never enough" time
 
-To know more visit my up-to-date 2k23 [roadmap](https://github.com/dizpunk/roadmap/blob/main/README.md) 🚧
+To know more visit my up-to-date 2k23 [roadmap](https://github.com/dizpunk/roadmap/blob/main/README.md) 🚧 <br>
 Glad you wasted a minute of your life to read this! ❤️
